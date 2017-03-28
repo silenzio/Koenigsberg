@@ -1,7 +1,7 @@
 # Koenigsberg
 The Problem "Seven Bridges of Königsberg" in a Java application. 
 
-The Java application allows some algorithms to run through a graph modell in a Neo4J database and tries 
+The attempt of a Java application which allows some algorithms, to run through a graph modell in a Neo4J database. Program tries 
 to show several attempts of the run through, with the result that this problem is in this constellation
 is not solveable. 
 
